@@ -1,0 +1,7 @@
+*.pyc
+*~
+.vscode
+__pycache__
+django-venv
+/static
+.DS_Store
